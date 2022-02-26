@@ -9,8 +9,6 @@ fn main() {
 
     //println!("the secret number is {}", secret_number);
 
-    
-
     loop{
 
         println!("Please input your guess.");
